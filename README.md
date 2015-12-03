@@ -12,7 +12,9 @@ with Date Format (see below)
 
 1) Free Standing
 
-Example:
+```
+[Apr 11]
+```
 
 2) Inline - Round Header
 
@@ -46,3 +48,27 @@ Nürnberg       abd Wolfsburg       [abandoned at 1-0 at half-time due to
 [Apr 20]
 Nürnberg       1-0 Wolfsburg       [replay]
 ```
+
+
+
+
+### Knockout Cases (Byes)
+
+```
+Round 5 [Jun 18]
+MTV Gifhorn       0-2 VfB Oldenburg
+SC Victoria       0-2 VfL Oldenburg
+Bye: FC Oberneuland
+```
+
+
+
+### Outliers
+
+```
+Nürnberg       abd Wolfsburg       [abandoned at 1-0 at half-time due to
+[Apr 12]                            waterlogged pitch]
+```
+
+abandonend wrap over two lines - use indentation to find match - why? why not?? 
+
