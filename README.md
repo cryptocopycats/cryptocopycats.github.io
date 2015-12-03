@@ -3,6 +3,15 @@
 football match schedule formats in plain "vanilla" text
 
 
+use two formats (readers) ???  e.g. league format (no knockouts etc.) and cup format - why, why not??
+
+
+## League Format
+
+## Cup Format
+
+
+
 ### Round Headers
 
 ```
