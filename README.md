@@ -1,9 +1,18 @@
-# rsssf format - football plain text match schedule formats
+# rsssf format
+
+football match schedule formats in plain "vanilla" text
+
 
 ### Round Headers
 
 ```
 Round 1
+Round 2
+Round 3
+Round 4
+...
+Round 33
+Round 34
 ```
 
 with Date Format (see below)
