@@ -4,7 +4,7 @@
 
     var designs = [
 `###
-# design: 0 - Standing Smiling Pure Left; size: 21x17
+# mooncat design: 0 - Standing Smiling Pure Left; size: 21x17
 
 . . @ . . . . . @ . . . . . . . . . . . .
 . @ o @ . . . @ o @ . . . . . . . . . . .
@@ -25,7 +25,7 @@
 . . . . @ @ @ @ @ @ @ @ @ @ . . . . . . .
 `,
 `###
-# design: 1 - Sleeping Smiling Pure Left; size: 20x14
+# mooncat design: 1 - Sleeping Smiling Pure Left; size: 20x14
 
 . . . @ . . . . . @ . . . . . . . . . .
 . . @ o @ . . . @ o @ . . . . . . . . .
@@ -43,7 +43,7 @@
 . . . . . . . . . @ @ @ @ @ @ @ @ . . .
 `,
 `###
-# design: 2 - Pouncing Smiling Pure Left; size: 17x22
+# mooncat design: 2 - Pouncing Smiling Pure Left; size: 17x22
 
 . . . @ . . . . . @ @ . . . . . .
 . . @ o @ . . . @ o @ . . . . . .
@@ -69,7 +69,7 @@
 . . . . . @ @ . . . @ @ @ . . . .
 `,
 `###
-# design: 3 - Stalking Smiling Pure Left; size: 20x21
+# mooncat design: 3 - Stalking Smiling Pure Left; size: 20x21
 
 . . . . . . . . . . @ @ @ @ @ @ . . . .
 . . . . . . . . . . @ o o o o @ @ @ . .
